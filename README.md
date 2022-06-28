@@ -1,2 +1,2 @@
 # LinuxMgmt
-/For Linux Management, Hadoop, AWS
+For Linux Management, Docker, Hadoop, AWS
